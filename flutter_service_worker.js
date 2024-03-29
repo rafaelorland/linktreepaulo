@@ -56,11 +56,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "8622d564e4f5d976cde56f8bc8002733",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "59a12ab9d00ae8f8096fffc417b6e84f",
-"icons/icon.png": "b4c15c1507fc80fbb75c3fbd495a14e3",
-"index.html": "3540865594b7ff7ce83a8fa1120d9c02",
-"/": "3540865594b7ff7ce83a8fa1120d9c02",
+"icons/icon.png": "ef2e20f58d1cca57fcc6a7758e4599f5",
+"index.html": "50a2b64d579c5dcac7308231f4318474",
+"/": "50a2b64d579c5dcac7308231f4318474",
 "main.dart.js": "5fe42df2220cea19ef871a9c3f6f608f",
-"manifest.json": "161d2245f64b4d0d224df311fc9b453d",
+"manifest.json": "f97c38f352ad2cbff3648f9c02c20609",
 "version.json": "073b7fa8cc946e30a17aea82c538ce9b"};
 // The application shell files that are downloaded before a service worker can
 // start.
